@@ -5,11 +5,14 @@
 void oscar() {
     puts("0006347853 | Oscar Oscar | Just you wait");
 }
+void ahmad() {
+    puts("2506634651 | Ahmad Madany | bismilah ipk 4.5");
+}
 
 int main() {
     oscar();
 
-    // Call your function after this.
+    ahmad();
 
 
 
